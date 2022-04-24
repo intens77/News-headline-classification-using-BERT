@@ -13,3 +13,5 @@ predictions.tsv - файл с предсказаниями
 train_model.ipynb - файл с описанием процесса обучения, тестирования и валидации модели
 
 
+
+Sorry for the late posting. It was a pity the time wasted, so I decided to post my solution.
